@@ -21,8 +21,8 @@ Display the result
 ## Program:
 ```
 #Program to find the rank of a matrix.
-#Developed by: 
-#RegisterNumber:
+#Developed by: Puli Naga Neeraj
+#RegisterNumber: 23004033
 import numpy as np
 A=[[3,2,5],[1,1,2],[3,3,6]]
 sol=np.linalg.matrix_rank(A)
